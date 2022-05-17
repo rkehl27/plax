@@ -1,4 +1,4 @@
-module github.com/Comcast/plax
+module github.com/rkehl27/plax
 
 go 1.16
 
@@ -30,4 +30,4 @@ require (
 
 exclude github.com/manifoldco/promptui v0.8.0
 
-replace github.com/Comcast/plax => ./
+replace github.com/rkehl27/plax => ./
